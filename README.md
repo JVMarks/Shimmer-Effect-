@@ -1,25 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 <h1 align="center">
-UI Clone - LinkedIn Feed
+LinkedIn Feed Shimmer-Effect
 </h1>
 
-<p align="center">Responsive LinkedIn Feed UI clone for study purposes.</p>
-<p align="center">Click <a href="https://rocketseat-clone-linkedin.netlify.app/">here</a> to live preview.</p>
-
-<p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-linkedin/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-linkedin?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
+<p align="center">Responsive LinkedIn Feed</p>
+<p align="center">Click <a href="https://shimmereffect.vercel.app/">here</a> to live preview.</p>
 
 <hr>
-
-## Participants
-
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
-
-[Guilherme Rodz](https://github.com/guilhermerodz)
 
 ## Techs
 
@@ -31,11 +17,5 @@ UI Clone - LinkedIn Feed
 
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start` and access `http://localhost:3000`.<br />
-=======
-# Shimmer-Effect-
-Example of Shimmer Effect on Linkedin layout
->>>>>>> c934114a2d44f2f9482748bc4ee15c29b1a26097
-=======
-# Shimmer-Effect-
-Example of Shimmer Effect on Linkedin layout
->>>>>>> c934114a2d44f2f9482748bc4ee15c29b1a26097
+
+<p>Feito com ♥ by Rocketseat <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> <a href="https://discordapp.com/invite/gCRAFhc" rel="nofollow">Entre na nossa comunidade!</a></p>
