@@ -6,7 +6,6 @@ LinkedIn Feed Shimmer-Effect
 <p align="center">Click <a href="https://shimmereffect.vercel.app/">here</a> to live preview.</p>
 
 <hr>
-
 ## Techs
 
 - [x] React.js
