@@ -7,7 +7,6 @@ LinkedIn Feed Shimmer-Effect
 
 <hr>
 <h3>Techs</h3>
-
 - [x] React.js
 - [x] Styled Components
 - [x] TypeScript
