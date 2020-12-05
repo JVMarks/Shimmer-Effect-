@@ -4,7 +4,6 @@ LinkedIn Feed Shimmer-Effect
 
 <p align="center">Responsive LinkedIn Feed</p>
 <p align="center">Click <a href="https://shimmereffect.vercel.app/">here</a> to live preview.</p>
-
 <hr>
 <h3>Techs</h3>
 - [x] React.js
